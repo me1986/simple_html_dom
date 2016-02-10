@@ -34,4 +34,5 @@ echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
 
 // extract text from HTML
 echo $html->plaintext;
+echo "hamid nzr";
 ?>
